@@ -1,0 +1,8 @@
+node_modules/
+out/
+result.json
+trace.jsonl
+.env
+.env.*
+!.env.example
+coverage/
